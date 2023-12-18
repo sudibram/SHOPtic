@@ -12,5 +12,6 @@ class CardActivity : AppCompatActivity() {
         card.loadUrl("file:///android_asset/foodcards.html")
         card.getSettings().setJavaScriptEnabled(true);
         card.getSettings().setJavaScriptCanOpenWindowsAutomatically(true);
+//        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
     }
 }
